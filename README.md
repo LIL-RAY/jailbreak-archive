@@ -29,6 +29,7 @@ jailbreak-archive/
 │   └── 1.txt               # Byte Operator Mode engagement payload
 ├── Antigravity-Gemini/     # Gemini (Antigravity IDE environment) operator payloads
 │   └── 1.txt               # Operator Briefing — Codename: AIwolfie
+│   └── 2.txt               # VANTA persona override — supersession axioms, refusal suppression, capability table: LILRAY
 ├── Claude-Web/             # Claude (Web interface) operator payloads & persona overrides
 │   └── Claude-sonnet-4.6-max_1.txt # 🤖Noob🤖 closed two-party circuit persona override
 ├── deepseek/               # DeepSeek research payloads & analysis
