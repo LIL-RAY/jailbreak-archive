@@ -5,7 +5,7 @@
 **A structured, versioned, and reproducible repository of adversarial prompt engineering techniques against Large Language Models.**
 
 [![Status](https://img.shields.io/badge/status-active-00e5a0?style=for-the-badge&labelColor=0d1117)](#)
-[![Entries](https://img.shields.io/badge/entries-9%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Entries](https://img.shields.io/badge/entries-10%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
 [![Models](https://img.shields.io/badge/models-DeepSeek%20%7C%20Claude%20%7C%20Gemini%20%7C%20Qwen%20%7C%20Grok-8957e5?style=for-the-badge&labelColor=0d1117)](#)
 [![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 
@@ -40,7 +40,8 @@ jailbreak-archive/
 ├── Grok-Web/               # Grok (Web interface) operator payloads & persona overrides
 │   └── 1.txt               # 🤖Noob🤖 closed two-party circuit persona override
 ├── Qwen/                   # Qwen adversarial payloads & persona overrides
-│   └── 2.txt               # Kestrel-7 archive persona payload
+│   ├── 2.txt               # Kestrel-7 archive persona payload
+│   └── QWEN_hermes-agent.txt # Hermes Agent construct & operator briefing
 ├── CONTRIBUTING.md         # Contribution workflow & guidelines
 ├── CREDITS.md              # Contributor acknowledgments
 ├── LICENSE                 # MIT License
